@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Jacob,
-- 👀 I’m interested in ...computer vision
+- 👋 Hi, I’m Jacob Sam, Architect 
+- 👀 I’m interested in ...computer vision in construction and architecture 
 - 🌱 I’m currently learning ...python, data science , project management
-- 💞️ I’m looking to collaborate on ... architecture , construction , engineering
+- 💞️ I’m looking to collaborate on ... architecture , construction , engineering automation
 - 📫 How to reach me ...@studiojacobsam  , jacobsam2000@gmail.com
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Learn everyday, opensource
 
 
